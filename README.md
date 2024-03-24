@@ -20,11 +20,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<center>
 <h2> 😂 Random Dev Meme</h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cocoth&icon=9&color=1)](https://visitcount.itsvg.in)
 
-</center>
