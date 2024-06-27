@@ -1,6 +1,6 @@
 <center style="border: solid black 1px; border-radius: 12px">
 <h1>Hi, <span>Im diyanz</span></h1>
-<h3 style="color: green; background: black; padding:.5em 0;">Penetration Tester, Web Developer</h3>
+<h3 style="color: green; background: black; padding:.5em 0;">someone who an interest in 'how it's work '</h3>
 </center>
 
 
